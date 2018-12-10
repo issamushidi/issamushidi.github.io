@@ -3856,23 +3856,10 @@ body {
   color: #767676 !important;
 }
 .cid-rbMNSAZ8gO {
-  background-image: url("../../../assets/images/scan-3-2000x2494.jpg");
+  background-image: url("../../../assets/images/dsc05874-2000x2988.jpg");
 }
-.cid-rbMO3r427s {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rbMO3r427s .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rbMO50Xv20 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rbMO50Xv20 .mbr-text {
-  color: #767676;
+.cid-rbOtIjlvz1 {
+  background: linear-gradient(45deg, #000000, #000000);
 }
 .cid-rbMO7Bwh8U {
   background: #ffffff;
@@ -4374,27 +4361,8 @@ body {
 .cid-rbLNDSO4dI {
   background-image: url("../../../assets/images/het-toeval-842x596.png");
 }
-.cid-rbLS9UBNxJ {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #000000;
-}
-.cid-rbLS9UBNxJ .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-rbLS9UBNxJ H2 {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-rbLS1cEM4z {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #000000;
-}
-.cid-rbLS1cEM4z .mbr-text {
-  color: #ffffff;
-  text-align: left;
+.cid-rbOufvUMPY {
+  background: linear-gradient(45deg, #000000, #000000);
 }
 .cid-rbLRarfmae {
   background: #ffffff;
@@ -4416,29 +4384,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rbLRarfmae .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rbLV2LWysf {
-  background: #ffffff;
-}
-.cid-rbLV2LWysf .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rbLV2LWysf .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rbLV2LWysf figcaption {
-  position: relative;
-}
-.cid-rbLV2LWysf figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rbLV2LWysf .image-block {
     width: 100% !important;
   }
 }
