@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "issamushidi",
+    "name": "issamushidi nl",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -75,7 +75,11 @@
         "name": "Lora",
         "url": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
       }
-    ]
+    ],
+    "favicon": "",
+    "noImageResize": "true",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
